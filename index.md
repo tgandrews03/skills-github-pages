@@ -8,7 +8,7 @@
 <body>
 <p> My name is Teagan Andrews. I am currently a junior studying Computer Science at the University of Iowa. In my free time, I enjoy photography, exploring nature, reading, and hanging out with my cat Hazel. </p>
 
-<img src = "C:\Users\teaga\GitHub\teagandrews.github.io\imgs\hazeloncouch.jpg>
+<img src = "\imgs\hazeloncouch.jpg>
 
 </body>
 </html>
