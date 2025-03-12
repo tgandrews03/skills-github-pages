@@ -9,6 +9,7 @@
 <p> My name is Teagan Andrews. I am currently a junior studying Computer Science at the University of Iowa. In my free time, I enjoy photography, exploring nature, reading, and hanging out with my cat Hazel. </p>
 
 <img src="./images/hazeloncouch.JPG" alt="Hazel">
+<p> Check out my Goodreads stats! </p>
 <h3 align="left">I am currently reading:</h3>
   <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
       <style type="text/css" media="screen">
@@ -62,7 +63,7 @@
       <div id="gr_custom_widget_1741801619">
           <div class="gr_custom_container_1741801619">
     <h2 class="gr_custom_header_1741801619">
-    <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/168300235-teagan-andrews?shelf=currently-reading&amp;utm_medium=api&amp;utm_source=custom_widget">Teagan&#39;s bookshelf: currently-reading</a>
+    <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/168300235-teagan-andrews?shelf=currently-reading&amp;utm_medium=api&amp;utm_source=custom_widget">Teagan&#39;s Bookshelf: Currently Reading</a>
     </h2>
       <div class="gr_custom_each_container_1741801619">
           <div class="gr_custom_book_container_1741801619">
@@ -146,7 +147,7 @@
       <div id="gr_grid_widget_1741801879">
         <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
             <h2>
-      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/168300235-teagan-andrews?shelf=read&utm_medium=api&utm_source=grid_widget">Teagan's bookshelf: read</a>
+      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/168300235-teagan-andrews?shelf=read&utm_medium=api&utm_source=grid_widget">Teagan's Bookshelf: read</a>
     </h2>
   <div class="gr_grid_container">
     <div class="gr_grid_book_container"><a title="Howl’s Moving Castle (Howl’s Moving Castle, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle"><img alt="Howl’s Moving Castle" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630502935l/6294._SX50_.jpg" /></a></div>
