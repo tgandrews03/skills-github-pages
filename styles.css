@@ -1,0 +1,44 @@
+body {
+    background-color: blanchedalmond;
+}
+header {
+    display: flex;
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:burlywood;
+    text-decoration: none;
+
+    
+}
+h1 {
+    color:black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+h3 {
+    margin: auto;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+li {
+    display: inline; 
+    padding: 0;
+    margin: 0 0 0 40px;
+    
+    
+}
+.linkStyle {
+    color: darkolivegreen;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    font-weight: bold;
+    text-decoration: none;
+      
+}
